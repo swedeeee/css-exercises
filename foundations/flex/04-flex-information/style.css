@@ -18,11 +18,6 @@ img {
   max-width: 200px;
 }
 
-.text {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .title {
   font-size: 36px;
